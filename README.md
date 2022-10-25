@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @deecode15800
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deepak
+- 👀 I’m interested in python programming 
+- 🌱 I’m currently learning machine learning and data science
 - 📫 How to reach me ...
+- instagram @_deepakkamble_
+- linkedin @deepak kamble
+- 
 
 <!---
 deecode15800/deecode15800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
